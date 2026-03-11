@@ -1,13 +1,16 @@
----
-title: GuardedRAG Tutor
-emoji: 📊
-colorFrom: blue
-colorTo: pink
-sdk: gradio
-sdk_version: 6.8.0
-app_file: app.py
-pinned: false
-short_description: 'GuardedRAG: A Safe Retrieval-Augmented Generation System for'
----
+# GuardedRAG Tutor
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+GuardedRAG Tutor is a safe Retrieval-Augmented Generation (RAG) system built with Python and Gradio.
+
+## Features
+- Secure RAG pipeline
+- Document retrieval
+- LLM-powered answers
+- Guardrails for safe responses
+
+## Installation
+
+```bash
+git clone https://github.com/Hassan-Albattra/GuardedRAG_Tutor.git
+cd GuardedRAG_Tutor
+pip install -r requirements.txt
