@@ -11,7 +11,7 @@ GuardedRAG Tutor is a safe Retrieval-Augmented Generation (RAG) system built wit
 ## Live Demo
 Try the app on Hugging Face:
 
-https://huggingface.co/spaces/MazenBahgat/GuardedRAG_Tutor
+https://huggingface.co/spaces/hassanalbattra/GuardedRAG_Tutor
 
 ## Installation
 
