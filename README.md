@@ -14,3 +14,8 @@ GuardedRAG Tutor is a safe Retrieval-Augmented Generation (RAG) system built wit
 git clone https://github.com/Hassan-Albattra/GuardedRAG_Tutor.git
 cd GuardedRAG_Tutor
 pip install -r requirements.txt
+
+## Live Demo
+Try the app on Hugging Face:
+
+https://huggingface.co/spaces/MazenBahgat/GuardedRAG_Tutor
