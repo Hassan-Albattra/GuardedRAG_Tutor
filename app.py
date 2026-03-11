@@ -30,8 +30,9 @@ import fitz  # PyMuPDF  (pip install pymupdf)
 
 # ── Config ─────────────────────────────────────────────────────────────────────
 # Use env vars (recommended)
-GEMINI_API_KEY   = os.getenv("GEMINI_API_KEY")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+GEMINI_API_KEY   = "Your-API-KEY"
+OPENAI_API_KEY   = "Your-API-KEY"
+
 # Worker model (Gemini)
 WORKER_MODEL     = "gemini-2.5-flash"
 
